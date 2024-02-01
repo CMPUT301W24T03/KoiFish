@@ -1,6 +1,10 @@
 package com.example.koifish;
 
-public class triangle extends Shape {
+public class Trapezoid extends Shape{
+
+
     private String color = "blue";
+
+    
 
 }
